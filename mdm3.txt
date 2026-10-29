@@ -1,0 +1,60 @@
+Step 1: Install the Wi-Fi Analyzer Application
+Install a suitable Wi-Fi Analyzer application on the smartphone.
+
+Step 2: Open the Application
+Open the installed Wi-Fi Analyzer application.
+Observe the main screen and the available Wi-Fi scanning or analysis options.
+
+Step 3: Enable Wi-Fi
+Enable Wi-Fi on the smartphone.
+Make sure the smartphone is able to detect nearby wireless networks.
+
+Step 4: Provide Required Permissions
+Provide the permissions requested by the application, such as Location permission, if required by the smartphone or application.
+
+Step 5: Start Wi-Fi Scanning
+Start the Wi-Fi scan in the application to detect nearby wireless networks.
+
+Step 6: Observe Detected Networks
+Observe the list of Wi-Fi networks detected by the application.
+For each detected network, observe the available information such as:
+SSID 
+RSSI 
+Channel number 
+Frequency band 
+
+Step 7: Record the SSID
+Select or note the SSID (name) of each detected Wi-Fi network.
+Record the SSID in the observation table.
+
+Step 8: Record RSSI
+Observe the RSSI/signal strength of each detected network.
+Record the RSSI value in dBm.
+
+Step 9: Record Channel Number
+Observe the Wi-Fi channel number used by each detected network.
+Record the corresponding channel number in the observation table.
+
+Step 10: Record Frequency Band
+Observe the frequency band used by each Wi-Fi network, such as 2.4 GHz or 5 GHz.
+Record the frequency band in the observation table.
+
+Step 11: Open Channel Analysis
+Open the channel graph or channel analysis view available in the Wi-Fi Analyzer application.
+Observe how the detected networks are distributed across different Wi-Fi channels.
+
+Step 12: Observe Channel Occupancy
+Observe the number of nearby Wi-Fi networks operating on each channel.
+Note which channels have a large number of networks and which have fewer networks.
+
+Step 13: Identify Crowded and Less-Crowded Channels
+Identify the most crowded and least crowded Wi-Fi channels based on the displayed channel analysis.
+
+Step 14: Compare the Detected Networks
+Compare the RSSI values, channels, frequency bands, and channel occupancy of the detected Wi-Fi networks.
+Observe which networks have stronger or weaker signals and which channels are more crowded.
+
+Step 15: Record Observations and Conclusion
+Record all observations in the observation table.
+Based on the obtained results, write the conclusion regarding the detected Wi-Fi networks, their signal strengths, frequency bands, and channel usage.
+
